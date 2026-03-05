@@ -18,3 +18,4 @@ const exampleNode = {
     choices: ["go to room1","go to room2","go to room3"]
 }
 
+const storyNodes = ["outside","hallway","room1","room2","room3"]
