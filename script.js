@@ -12,6 +12,8 @@ function discribeRoom(room) {
     }
 }
 
+discribeRoom("room2")
+
 const exampleNode = {
     image: "images/hallway.jpg",
     text: "You see a room wiht peeling paint and a broom",
@@ -51,4 +53,4 @@ function displayNode(i) {
     document.getElementById("cap").textContent = node.text;
 }
 
-displayNode(2)
+displayNode(3)
